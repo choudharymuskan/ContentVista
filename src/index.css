@@ -1,0 +1,37 @@
+.form {
+  display:flex ;
+  flex-direction: column;
+  width:90%;
+  padding:3px;
+  margin:5px;
+}
+
+.primary{
+  border: 2px solid rgb(150, 198, 236);
+  width:10%;
+  margin:5px;
+  
+}
+
+.form input{
+  margin:5px;
+ border: 2px solid rgb(150, 198, 236);
+ outline:none;
+}
+
+.login{
+  color:grey;
+  margin:2%;
+  font-weight: bolder;
+
+
+}
+.loginform{
+  border:1px solid blue;
+  border-radius: 5px;
+  padding:5px;
+  width:20%;
+  /* margin:auto; */
+  margin-top:10%;
+  margin-left:40%;
+}
