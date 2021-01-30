@@ -11,3 +11,4 @@ Axios is used to GET ,POST and PUT data From backend to frontend or ViceVersa
 
 
 
+![1VideoSpeed1612027334862 (1)](https://user-images.githubusercontent.com/66992523/106363546-2a68a780-634f-11eb-8e56-c62566ca7d09.gif)
