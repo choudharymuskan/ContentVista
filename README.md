@@ -1,13 +1,25 @@
 # ContentVista
 
-This ia a webapp called contentVista 
-It has Login,Logout and Signup functionality
-You can signup and add articles,Further edit and repost those articles.
+ContentVista is a Webapp where you can post articles.
+Features
+1 Login,Logout and Signup functionality
+2 Post Articles
+3 View Public articles
+4 Edit Pre-posted articles
+5 View personal articles on the my articles page
 
 
-This app is build using Django as Backend and ReactJs as Frontend.
-Also Redux and DjangoRestFramework,DjangoApi,DjangoAll_AUTH etc for creating Api and Performing CRUD operations on backend.
-Axios is used to GET ,POST and PUT data From backend to frontend or ViceVersa 
+
+
+This project is broken up into a backend and frontend. The backend contains the Django project which uses the Django Rest Framework to host a simple API. The frontend uses React and Axios is used to query data from the API.
+
+Requirements.
+
+Django
+django-allauth
+django-cors-headers
+dj-rest-auth
+djangorestframework
 
 
 
