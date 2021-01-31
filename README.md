@@ -5,9 +5,13 @@ ContentVista is a Webapp where you can post articles.
 
 Features
 1 Login,Logout and Signup functionality
+
 2 Post Articles
+
 3 View Public articles
+
 4 Edit Pre-posted articles
+
 5 View personal articles on the my articles page
 
 
