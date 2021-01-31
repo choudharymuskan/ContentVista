@@ -4,6 +4,7 @@ ContentVista is a Webapp where you can post articles.
 
 
 Features
+
 1 Login,Logout and Signup functionality
 
 2 Post Articles
@@ -22,9 +23,13 @@ This project is broken up into a backend and frontend. The backend contains the 
 Requirements.
 
 Django
+
 django-allauth
+
 django-cors-headers
+
 dj-rest-auth
+
 djangorestframework
 
 
