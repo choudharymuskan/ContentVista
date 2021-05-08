@@ -34,15 +34,24 @@ djangorestframework
 
 
 to run in cmd or vscode terminal (frontend)
+
 1 open <Your Project>
+  
 2 cd gui
+
 3 npm start
 
+
 to run backend using other terminal 
+
 1 open <Your Project>
+  
 2 .\Scripts\activate
+
 3 cd djreact
+
 4 python mange.py runserver
+
 
 
 
